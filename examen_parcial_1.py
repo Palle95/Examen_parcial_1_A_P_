@@ -1,10 +1,8 @@
-x = "el valor de (a+b)*c es:"
-a,b,c = 4, 3, 2
-d = (a+b)*c 
-imprimir =  True 
-# comentarios con el numeral|
-if imprimir:
-    print(x, d)
-
-import keyword
-print(keyword.kwlist)
+#algoritmo para ingresar un numero entero 
+num =  int(input("A continuacion ingrese un numero: "))
+if num < 0:
+    print("El numero ",num, " es negativo")
+elif num > 0:
+    print("El numero ", num, " es positivo")
+elif num == 0:
+    print("El numero ingresado es igual a: ",num)
