@@ -1,5 +1,5 @@
-
-print("seleccione que accion desea realizar: \n 1. Determinar si un numero es positivo o negativo \n 2. Almacenar numeros para saber el resultado total de la sumatoria de los mismos \n 3. Determinar la suma de los digitos de un numero")
+print("Bienvenido a continuacion verá un menu en donde ingresando 1, 2 o 3")
+print("podra seleccionar que accion desea realizar: \n 1. Determinar si un numero es positivo o negativo \n 2. Almacenar numeros para saber el resultado total de la sumatoria de los mismos \n 3. Determinar la suma de los digitos de un numero")
 op1 = 1
 op2 = 2
 op3 = 3
